@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\StudyProject\StudyProject\bin\Debug\StudyProject.exe.config
+C:\Users\User\Desktop\StudyProject\StudyProject\bin\Debug\StudyProject.exe
+C:\Users\User\Desktop\StudyProject\StudyProject\bin\Debug\StudyProject.pdb
+C:\Users\User\Desktop\StudyProject\StudyProject\obj\Debug\StudyProject.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\StudyProject\StudyProject\obj\Debug\StudyProject.exe
+C:\Users\User\Desktop\StudyProject\StudyProject\obj\Debug\StudyProject.pdb
